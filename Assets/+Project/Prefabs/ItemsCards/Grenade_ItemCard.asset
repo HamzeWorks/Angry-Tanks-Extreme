@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70d2bbdfcc7c1fb41a4b1fb75d53d7a1, type: 3}
+  m_Name: Grenade_ItemCard
+  m_EditorClassIdentifier: 
+  m_itemName: Grenade_Item
+  m_icon: {fileID: 3931280250758830950, guid: b73d91e6076770848befa35e9543dce0, type: 3}
+  m_prefabReference:
+    m_AssetGUID: 601ee2db3e610524d8c6917190a1ccdc
+    m_SubObjectName: 
+    m_SubObjectType: 
+  m_explotionPrefabReference:
+    m_AssetGUID: a7c694f0877ea874fa57e033221095c3
+    m_SubObjectName: 
+    m_SubObjectType: 
+  defaultUpgradeCost: 25
+  upgradeCost_perLevel: 1
+  defaultPower: 10
+  power_perLevel: 0.2
+  m_lifeTime: 7
+  m_radius: 3
+  m_weight: 1

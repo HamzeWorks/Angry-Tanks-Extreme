@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70d2bbdfcc7c1fb41a4b1fb75d53d7a1, type: 3}
+  m_Name: SplitterChain_ItemCard
+  m_EditorClassIdentifier: 
+  m_itemName: SplitterChain_Item
+  m_icon: {fileID: -231474780526482725, guid: 400dc31aba72ced43b5c864d1cef5f2f, type: 3}
+  m_prefabReference:
+    m_AssetGUID: 4d5d0dc9f4b87cf4ba3cc5cc87cdad6a
+    m_SubObjectName: 
+    m_SubObjectType: 
+  m_explotionPrefabReference:
+    m_AssetGUID: a7c694f0877ea874fa57e033221095c3
+    m_SubObjectName: 
+    m_SubObjectType: 
+  defaultUpgradeCost: 10
+  upgradeCost_perLevel: 1
+  defaultPower: 10
+  power_perLevel: 0.2
+  m_lifeTime: 7
+  m_radius: 1
+  m_weight: 1

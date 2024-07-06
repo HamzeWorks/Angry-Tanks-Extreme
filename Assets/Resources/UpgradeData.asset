@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df664058f5606f04ab7b15c2120b2466, type: 3}
+  m_Name: UpgradeData
+  m_EditorClassIdentifier: 
+  upgradeItems:
+  - tankName: Yellow
+    isUnlocked: 1
+    unlockCost: 0
+    unlockedLevel: 1
+    tankLevelsData:
+    - unlockCost: 100
+      speed: 8
+      health: 100
+      power: 35
+    - unlockCost: 50
+      speed: 8.5
+      health: 110
+      power: 0
+  - tankName: Green1
+    isUnlocked: 0
+    unlockCost: 130
+    unlockedLevel: 0
+    tankLevelsData:
+    - unlockCost: 150
+      speed: 9
+      health: 120
+      power: 40
+    - unlockCost: 150
+      speed: 9.5
+      health: 140
+      power: 45
+  - tankName: Green2
+    isUnlocked: 0
+    unlockCost: 175
+    unlockedLevel: 0
+    tankLevelsData:
+    - unlockCost: 300
+      speed: 10
+      health: 150
+      power: 50
+    - unlockCost: 430
+      speed: 12
+      health: 175
+      power: 60
+    - unlockCost: 450
+      speed: 15
+      health: 175
+      power: 65

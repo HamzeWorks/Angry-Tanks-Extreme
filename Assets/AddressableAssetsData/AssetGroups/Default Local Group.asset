@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aada07247c483554bbcbf68ceec85c93
+  m_SerializeEntries:
+  - m_GUID: 14a334c03c1cccd458efe9a3d4fbc240
+    m_Address: Volley_Item_Explotion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a7c694f0877ea874fa57e033221095c3
+    m_Address: Grenade_Item_Explotion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bfbeddd8307f4e441aa8ae4537bf45ad
+    m_Address: Simple_Item_Explotion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f407b02e7947b9143969a306aee2b85c
+    m_Address: BigOne_Item_Explotion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0f21a4c433ec6cb43838c4a92c23d95a
+    m_Address: Shop Panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4659729218095761113, guid: 0f21a4c433ec6cb43838c4a92c23d95a,
+      type: 3}
+    m_TargetAsset: {fileID: 4659729218095761113, guid: 0f21a4c433ec6cb43838c4a92c23d95a,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ea7f0a135e2db9f46aff90b2054b7dd6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3a187e7c08fbaa44eb3c9cee8bb36e2a, type: 2}
+    - {fileID: 11400000, guid: 1f5dd5f5cbb1ceb418e04e94670b7919, type: 2}

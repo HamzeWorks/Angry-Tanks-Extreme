@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70d2bbdfcc7c1fb41a4b1fb75d53d7a1, type: 3}
+  m_Name: BigOne_ItemCard
+  m_EditorClassIdentifier: 
+  m_itemName: BigOne_Item
+  m_icon: {fileID: 5691837266276894323, guid: b73d91e6076770848befa35e9543dce0, type: 3}
+  m_prefabReference:
+    m_AssetGUID: 32aedc0883e5cf1439eae9037e8dbcb4
+    m_SubObjectName: 
+    m_SubObjectType: 
+  m_explotionPrefabReference:
+    m_AssetGUID: f407b02e7947b9143969a306aee2b85c
+    m_SubObjectName: 
+    m_SubObjectType: 
+  defaultUpgradeCost: 25
+  upgradeCost_perLevel: 1
+  defaultPower: 10
+  power_perLevel: 0.2
+  m_lifeTime: 7
+  m_radius: 3
+  m_weight: 1

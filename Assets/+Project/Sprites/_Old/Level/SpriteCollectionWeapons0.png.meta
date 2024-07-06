@@ -1,0 +1,1206 @@
+fileFormatVersion: 2
+guid: 2ce66cc92f8de714392cd02197832e97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5579200434202922
+    second: SpriteCollectionWeapons0_0
+  - first:
+      213: 5865524874200435156
+    second: SpriteCollectionWeapons0_1
+  - first:
+      213: -9048193753176683453
+    second: SpriteCollectionWeapons0_2
+  - first:
+      213: 5113545992200726079
+    second: SpriteCollectionWeapons0_3
+  - first:
+      213: 8832997162763422631
+    second: SpriteCollectionWeapons0_4
+  - first:
+      213: 5062124454904427072
+    second: SpriteCollectionWeapons0_5
+  - first:
+      213: -3378971056760722066
+    second: SpriteCollectionWeapons0_6
+  - first:
+      213: 5323804987376734477
+    second: SpriteCollectionWeapons0_7
+  - first:
+      213: -8602395577326805199
+    second: SpriteCollectionWeapons0_8
+  - first:
+      213: 8407478608515791977
+    second: SpriteCollectionWeapons0_9
+  - first:
+      213: -8436003063994322889
+    second: SpriteCollectionWeapons0_10
+  - first:
+      213: 938342216218803110
+    second: SpriteCollectionWeapons0_11
+  - first:
+      213: -5315994580636341166
+    second: SpriteCollectionWeapons0_12
+  - first:
+      213: -4964258226202280722
+    second: SpriteCollectionWeapons0_13
+  - first:
+      213: -2720035456052662640
+    second: SpriteCollectionWeapons0_14
+  - first:
+      213: 6596261278272973700
+    second: SpriteCollectionWeapons0_15
+  - first:
+      213: 8869610407571493799
+    second: SpriteCollectionWeapons0_16
+  - first:
+      213: 4218296123852242692
+    second: SpriteCollectionWeapons0_17
+  - first:
+      213: -8964326510548216144
+    second: SpriteCollectionWeapons0_18
+  - first:
+      213: 8140525022581974305
+    second: SpriteCollectionWeapons0_19
+  - first:
+      213: 3458220938966497339
+    second: SpriteCollectionWeapons0_20
+  - first:
+      213: 6177375789499831500
+    second: SpriteCollectionWeapons0_21
+  - first:
+      213: 656625058906395023
+    second: SpriteCollectionWeapons0_22
+  - first:
+      213: 1460948263961935323
+    second: SpriteCollectionWeapons0_23
+  - first:
+      213: -6852967858106521314
+    second: SpriteCollectionWeapons0_24
+  - first:
+      213: -3407224651624311739
+    second: SpriteCollectionWeapons0_25
+  - first:
+      213: -5248378351796060945
+    second: SpriteCollectionWeapons0_26
+  - first:
+      213: 6514140072488105916
+    second: SpriteCollectionWeapons0_27
+  - first:
+      213: 7346428125840926621
+    second: SpriteCollectionWeapons0_28
+  - first:
+      213: 6838028096853848614
+    second: SpriteCollectionWeapons0_29
+  - first:
+      213: 441705217033340318
+    second: SpriteCollectionWeapons0_30
+  - first:
+      213: 1968610633425135757
+    second: SpriteCollectionWeapons0_31
+  - first:
+      213: 959054736212526702
+    second: SpriteCollectionWeapons0_32
+  - first:
+      213: 5097547045559736739
+    second: SpriteCollectionWeapons0_6
+  - first:
+      213: -8112097244568588373
+    second: SpriteCollectionWeapons0_33
+  - first:
+      213: -3682924669000598413
+    second: SpriteCollectionWeapons0_34
+  - first:
+      213: -5348646538780187304
+    second: SpriteCollectionWeapons0_35
+  - first:
+      213: -8666793160357322312
+    second: SpriteCollectionWeapons0_28
+  - first:
+      213: 5417884200078007415
+    second: SpriteCollectionWeapons0_36
+  - first:
+      213: -9173458686685028761
+    second: SpriteCollectionWeapons0_37
+  - first:
+      213: 1649634310904661750
+    second: SpriteCollectionWeapons0_38
+  - first:
+      213: -2535384721816270505
+    second: SpriteCollectionWeapons0_39
+  - first:
+      213: 8443919898080565277
+    second: SpriteCollectionWeapons0_40
+  - first:
+      213: 5305126044868076923
+    second: SpriteCollectionWeapons0_41
+  - first:
+      213: -3195747085403554563
+    second: SpriteCollectionWeapons0_42
+  - first:
+      213: 3697588882317744039
+    second: SpriteCollectionWeapons0_43
+  - first:
+      213: 9037064303912583298
+    second: SpriteCollectionWeapons0_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1810
+        width: 1880
+        height: 840
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d61dfb2fbd2ceff0800000000000000
+      internalID: -5579200434202922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_1
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 1303
+        width: 917
+        height: 1347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d94fe3dbc7866150800000000000000
+      internalID: 5865524874200435156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 994
+        width: 711
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ccefa88bb5e6280800000000000000
+      internalID: -9048193753176683453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_3
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1075
+        width: 1054
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f362fb7bcf6f6f640800000000000000
+      internalID: 5113545992200726079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_4
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1163
+        width: 960
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab0c8cce1c159a70800000000000000
+      internalID: 8832997162763422631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_5
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 892
+        width: 619
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04275671f57404640800000000000000
+      internalID: 5062124454904427072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_7
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 756
+        width: 1128
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011b06ed64f1e940800000000000000
+      internalID: 5323804987376734477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_8
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 840
+        width: 623
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f5b04ccc62e9880800000000000000
+      internalID: -8602395577326805199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_9
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 566
+        width: 315
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c774def3d5da470800000000000000
+      internalID: 8407478608515791977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_10
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 572
+        width: 278
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730f28eb8eb4dea80800000000000000
+      internalID: -8436003063994322889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_11
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 610
+        width: 356
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab797b2649a50d00800000000000000
+      internalID: 938342216218803110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 462
+        width: 235
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce441281bc936b0800000000000000
+      internalID: -5315994580636341166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 490
+        width: 730
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf6ede1796b1bb0800000000000000
+      internalID: -4964258226202280722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_15
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 522
+        width: 306
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bef112fa0aa8b50800000000000000
+      internalID: 6596261278272973700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_16
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 518
+        width: 392
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a318672caf271b70800000000000000
+      internalID: 8869610407571493799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_17
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 544
+        width: 283
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fbe93a9f56a8a30800000000000000
+      internalID: 4218296123852242692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_18
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 548
+        width: 286
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61820a880589380800000000000000
+      internalID: -8964326510548216144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 165
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256d20b064f8f070800000000000000
+      internalID: 8140525022581974305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 297
+        width: 329
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b387aed1f911eff20800000000000000
+      internalID: 3458220938966497339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 313
+        width: 178
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc45c392d827ab550800000000000000
+      internalID: 6177375789499831500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_22
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 323
+        width: 419
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f815cba130dcc1900800000000000000
+      internalID: 656625058906395023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 171
+        width: 285
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddbca4a4b4564410800000000000000
+      internalID: 1460948263961935323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 171
+        width: 351
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192468aa0e55e0a0800000000000000
+      internalID: -6852967858106521314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_25
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 185
+        width: 255
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5449af94b3b17b0d0800000000000000
+      internalID: -3407224651624311739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_26
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 351
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec785632b30a27b0800000000000000
+      internalID: -5248378351796060945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_27
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 219
+        width: 203
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb77acde1efd66a50800000000000000
+      internalID: 6514140072488105916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_29
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 79
+        width: 375
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6223d1d135e85ee50800000000000000
+      internalID: 6838028096853848614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_30
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 83
+        width: 399
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9585bcfd80412600800000000000000
+      internalID: 441705217033340318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_14
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 0
+        width: 225
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e63810a2e704ad0800000000000000
+      internalID: -2720035456052662640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_31
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 0
+        width: 298
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88ac52e0f8e15b10800000000000000
+      internalID: 1968610633425135757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_32
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 84
+        width: 318
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e668a18833f3f4d00800000000000000
+      internalID: 959054736212526702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 615
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a91e6ca7002eb640800000000000000
+      internalID: 5097547045559736739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_33
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 496
+        width: 552
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf601a298a0c6f80800000000000000
+      internalID: -8112097244568588373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_34
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 354
+        width: 545
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c32b9c68f93ecc0800000000000000
+      internalID: -3682924669000598413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_35
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 373
+        width: 247
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85562e2bf4ac5c5b0800000000000000
+      internalID: -5348646538780187304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 229
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1ed1f0a8d59b780800000000000000
+      internalID: -8666793160357322312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_36
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1
+        width: 156
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cd9db89f0303b40800000000000000
+      internalID: 5417884200078007415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_37
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 247
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eda627de351b080800000000000000
+      internalID: -9173458686685028761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_38
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1
+        width: 210
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c4c66aada4e610800000000000000
+      internalID: 1649634310904661750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_39
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 0
+        width: 284
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759403f470180dcd0800000000000000
+      internalID: -2535384721816270505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_40
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 218
+        width: 228
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d1f4d864de2570800000000000000
+      internalID: 8443919898080565277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_41
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 100
+        width: 256
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75e801b7089f9940800000000000000
+      internalID: 5305126044868076923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_42
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 97
+        width: 163
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf78625fc66a3d0800000000000000
+      internalID: -3195747085403554563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_43
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 361
+        width: 340
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79bff6f79705330800000000000000
+      internalID: 3697588882317744039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteCollectionWeapons0_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 234
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280821f9a1a1a6d70800000000000000
+      internalID: 9037064303912583298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

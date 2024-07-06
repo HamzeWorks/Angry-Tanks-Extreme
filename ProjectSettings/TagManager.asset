@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tank
+  - Ground
+  - Missile
+  - Destructible
+  - UPG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - InteractableObjects
+  - Tank
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 256410895
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Frontground
+    uniqueID: 3644308883
+    locked: 0
+  - name: HUD
+    uniqueID: 24048057
+    locked: 0
